@@ -1,5 +1,5 @@
 # Hi there 👋, My name is **Loshakov Alexandr** !
-## I'm 💻 *Front-end developer* from Moscow.
+## I'm 💻 *Front-end developer* from Moscow, work at Prisma Lab. 
 ### My contacts :
 ### Mail me 📩 : caekinc@gmail.com
 ### Telegram 📲 and instagram 📷 : @caekinc
